@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Genos:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'genos', cursive;
+    width: 99vw;
+    height: 99vh;
+    text-align: center;
+}
+
+
+h3{
+   
+    font-size: 30px; 
+    margin-left: 100px ;
+}
+form{
+    width: 600px;
+}
+label{
+    font-size: 25px;
+    margin-left: 150px;
+    
+}
+select{
+    
+    
+     height: 20px; 
+     width: 40px; 
+}
+
+#input{
+    height: 20px; 
+     width: 71px;
+    margin-left: 150px;
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 20px;
+}
+#btn{
+    background-color: black;
+    color: white;
+    padding: 2px;
+    border: 2px solid gray;
+    margin-left: 150px;
+    border-radius: 5px;
+}
+
+span{
+    
+   font-size: 30px;
+   text-align: center;
+   background-color:rgba(212, 194, 136, 0.849);
+   border-radius: 5px;
+}
+#btn:hover{
+    background-color: purple;
+}
